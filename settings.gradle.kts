@@ -1,0 +1,1 @@
+rootProject.name = "JUnit-3K9"
